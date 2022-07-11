@@ -1,0 +1,17 @@
+{
+  "name": "ele-easy-toast-update",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "types"
+  ],
+  "typings": "types/index.d.ts",
+  "dependencies": {
+    "element-plus": "^2.2.8",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
